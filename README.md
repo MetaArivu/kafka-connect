@@ -29,3 +29,11 @@
 
 <img width="1202" alt="screen shot 2018-05-08 at 7 04 23 pm" src="https://user-images.githubusercontent.com/23295769/39760348-b2906668-52f2-11e8-8405-fa32c963a8d5.png">
 
+
+# Note
+
+Make sure you have have kafka connect(kafka-connect-jdbc-4.1.0.jar) & postgres(postgresql-9.4-1206-jdbc41.jar) jars placed in kafka lib OR in your classpath.
+
+
+# Run 
+Steps for executing [file](https://github.com/MetaArivu/kafka-connect/tree/master/file-connector) and [jdbc](https://github.com/MetaArivu/kafka-connect/tree/master/jdbc-connector) connector are specified in respective folders. 
