@@ -1,1 +1,1 @@
-# kafka-connect
+# Kafka Connect example 
