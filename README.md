@@ -22,10 +22,10 @@
 ### This example purely focus on File and JDBC connector. It has four set of configuration
 
 
- - 1 [File to Kafka](https://github.com/MetaArivu/kafka-connect/blob/master/file-connector/file-standalone-source.properties)
- - 2 [Kafka to File](https://github.com/MetaArivu/kafka-connect/blob/master/file-connector/file-standalone-sink.properties)
- - 3 [Postgres to Kafka](https://github.com/MetaArivu/kafka-connect/blob/master/jdbc-connector/postgres-standalone-source.properties)
- - 4 [Kafka to Postgres](https://github.com/MetaArivu/kafka-connect/blob/master/jdbc-connector/postgres-standalone-sink.properties)
+ - [File to Kafka](https://github.com/MetaArivu/kafka-connect/blob/master/file-connector/file-standalone-source.properties)
+ - [Kafka to File](https://github.com/MetaArivu/kafka-connect/blob/master/file-connector/file-standalone-sink.properties)
+ - [Postgres to Kafka](https://github.com/MetaArivu/kafka-connect/blob/master/jdbc-connector/postgres-standalone-source.properties)
+ - [Kafka to Postgres](https://github.com/MetaArivu/kafka-connect/blob/master/jdbc-connector/postgres-standalone-sink.properties)
 
 <img width="1202" alt="screen shot 2018-05-08 at 7 04 23 pm" src="https://user-images.githubusercontent.com/23295769/39760348-b2906668-52f2-11e8-8405-fa32c963a8d5.png">
 
