@@ -1,9 +1,9 @@
 # File connector
-This example focus on getting data from file to Kafka & data from kafka to file.
+This example focus on getting data from file to Kafka & from kafka to file.
 
 ## Configuration changes
 
--  If you are running your broker on different host and port, please go and change in [file-standalone.properties](https://github.com/MetaArivu/kafka-connect/blob/master/file-connector/file-standalone.properties) 
+-  If you are running your broker on different host and port, please make changes to [file-standalone.properties](https://github.com/MetaArivu/kafka-connect/blob/master/file-connector/file-standalone.properties) 
 - Please change source file location in [file-standalone-source.properties](https://github.com/MetaArivu/kafka-connect/blob/master/file-connector/file-standalone-source.properties) 
 - Please change sink file location in [file-standalone-sink.properties](https://github.com/MetaArivu/kafka-connect/blob/master/file-connector/file-standalone-sink.properties) 
 - Copy all files from [file-connector](https://github.com/MetaArivu/kafka-connect/tree/master/file-connector) folder to config folder inside kafka installation folder.
