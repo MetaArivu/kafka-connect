@@ -1,3 +1,7 @@
+Kafka Connect is a framework service based around connector to move data into and out of Kafka.
+
+
+
 
 # Common use case on Kafka are
 
