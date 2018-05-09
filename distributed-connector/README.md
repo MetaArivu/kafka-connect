@@ -43,4 +43,11 @@ Generally for production you will deploy kafka connector in cluster instead of s
   - Verify message is getting printed on consumer terminal
   
   
-  
+## License
+
+Copyright © [MetaMagic Global Inc](http://www.metamagicglobal.com/), 2017-18.  All rights reserved.
+
+Licensed under the [Apache 2.0](http://www.amexio.org/metamagic-showcase/license.html)  License.
+
+**Enjoy!**
+
