@@ -8,7 +8,7 @@ Generally for production you will deploy kafka connector in cluster instead of s
 
 -  Copy all files from [distributed-connector](https://github.com/MetaArivu/kafka-connect/tree/master/distributed-connector) folder to config folder inside kafka installation folder.
 
-
+- We have configured rest enpoint to 8083 and 8084.
 
 # Demo - Start kafka file connector in distributed mode
 
@@ -20,7 +20,7 @@ Generally for production you will deploy kafka connector in cluster instead of s
 - Step 3 - Go to bin folder inside kafka installation folder and type below two command in seperate terminal.
   - sh connect-distributed.sh config/file-distributed.properties
   - sh connect-distributed.sh config/file-distributed-2.properties
-  - We have configured rest enpoint to 8083 and 8084.
+
   
 - Step 4 - Verify both the worker of Kafka Connect cluster are running using below curl command
   - curl http://localhost:8083/
